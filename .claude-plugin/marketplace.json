@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-dispatch",
+  "owner": {"name": "Kevsosmooth", "url": "https://github.com/Kevsosmooth"},
+  "metadata": {"description": "Model and effort routing for Claude Code subagents, enforced by hooks."},
+  "plugins": [
+    {
+      "name": "claude-code-dispatch",
+      "source": "./",
+      "description": "Dispatch gate, orchestrator gate and tripwire, six pinned worker agents, and the choosing-subagent-models and orchestrating skills.",
+      "category": "productivity",
+      "tags": ["subagents", "model-routing", "hooks", "cost"]
+    }
+  ]
+}

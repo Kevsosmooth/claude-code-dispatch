@@ -1,0 +1,10 @@
+{
+  "name": "claude-code-dispatch",
+  "version": "1.0.0",
+  "description": "Pick the right model and effort for every Claude Code subagent, and enforce it with hooks: a dispatch gate, an orchestrator gate that makes the parent delegate code, six pinned worker agents, and two skills.",
+  "author": {"name": "Kevsosmooth", "url": "https://github.com/Kevsosmooth"},
+  "homepage": "https://github.com/Kevsosmooth/claude-code-dispatch",
+  "repository": "https://github.com/Kevsosmooth/claude-code-dispatch",
+  "license": "MIT",
+  "keywords": ["claude-code", "subagents", "model-routing", "hooks", "orchestration", "cost"]
+}
